@@ -44,15 +44,11 @@
     color: white;
     font-size: 1.5rem;
 }
-.landing p {
+.landing img {
    position: absolute;
    top: 50%;
    left: 50%;
    transform: translate(-50%,-50%);
-   color: white;
-   font-weight: bold;
-   font-size: 40px;
-   font-family:  'Cairo', sans-serif;
 }
 
 @media (max-width: 767px) {
@@ -377,7 +373,7 @@
 .footer .photo {
     margin: auto;
     justify-content: space-around;
-    margin-top: 262%;
+        margin-top: 262%;
     padding-left: 98px
 }
 @media (max-width: 767px) {
