@@ -22,7 +22,7 @@
     
     .landing {
         position: relative;
-        background: url(./../imgs/landing.png);
+        
         height: 300px ;
     }
     @media (max-width: 767px) {
@@ -280,9 +280,7 @@
         margin: 10px;
     }
     /* END nav */
- 
-
-    /* Start Card */
+    /* Start card */
     .box {
         padding-right: 70px;
         padding-left: 70px;
@@ -335,16 +333,31 @@
         display: flex;
         justify-content: space-between;
     }
+    .card .footer {
+        display: flex;
+    }
     
-    .card .footer h6 {
+    .card  h6 {
         color: #B38840;
     }
 
     .card .footer p {
         line-height: 26px;
-        font-size: 16px
+        font-size: 16px;
+        max-width: 50%;
+    }
+    .card .footer a {
+        max-width: 50%; 
+        font-weight: bold;
+        width: 44%;
+        height: 45px;
+        margin-top: 28%;
+        margin-right: 42px;
+        border-radius: 10px;
+
     }
     /* END Card */
+    
     
 /* Start animation */
 @keyframes left-move {
