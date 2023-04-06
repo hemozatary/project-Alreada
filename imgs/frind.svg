@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="31" viewBox="0 0 30 31">
+  <g id="Group_3598" data-name="Group 3598" transform="translate(-1422.5 -1204)">
+    <g id="vuesax_outline_user" data-name="vuesax/outline/user" transform="translate(1422.5 1204)">
+      <g id="vuesax_outline_user-2" data-name="vuesax/outline/user">
+        <g id="user">
+          <path id="Vector" d="M7.188,14.854A7.319,7.319,0,0,1,0,7.427,7.319,7.319,0,0,1,7.188,0a7.319,7.319,0,0,1,7.188,7.427A7.319,7.319,0,0,1,7.188,14.854Zm0-12.917A5.409,5.409,0,0,0,1.875,7.427a5.409,5.409,0,0,0,5.312,5.489A5.409,5.409,0,0,0,12.5,7.427,5.409,5.409,0,0,0,7.188,1.938Z" transform="translate(7.813 1.615)" fill="#292d32"/>
+          <path id="Vector-2" data-name="Vector" d="M21.475,10.01c0-4.456-4.4-8.073-9.8-8.073s-9.8,3.617-9.8,8.073a.96.96,0,0,1-.937.969A.96.96,0,0,1,0,10.01C0,4.495,5.237,0,11.675,0S23.35,4.495,23.35,10.01a.938.938,0,1,1-1.875,0Z" transform="translate(3.325 18.406)" fill="#292d32"/>
+          <path id="Vector-3" data-name="Vector" d="M30,0V31H0V0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

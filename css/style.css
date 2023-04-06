@@ -346,6 +346,15 @@
         font-size: 16px;
         max-width: 50%;
     }
+
+    @media (max-width: 767px) {
+        .card .footer p {
+            line-height: 21px;
+            font-size: 10px;
+            max-width: 50%;
+        }
+        }
+ 
     .card .footer a {
         max-width: 50%; 
         font-weight: bold;
@@ -357,6 +366,64 @@
 
     }
     /* END Card */
+    /* Start cours */
+    .cours .box {
+        padding: 0;
+    }
+    .cours .card {
+        padding: 0px;
+        box-shadow: 3px 2px 12px 3px #e5e2e2;
+        border: none ;
+    }
+
+    .cours .card-body {
+        padding-right: 0px;
+        padding: 10px;
+        background-color: #F8F8F8;
+    }
+  
+
+    .cours .card img {
+        position: relative;
+    }
+    .cours .sajel {
+        position: absolute;
+    top: 42%;
+    right: 69%;
+    width: 98px;
+    font-weight: bold;
+}
+ 
+    .cours .salary {
+        display: flex;
+        justify-content: space-between;
+    }
+    .cours .salary a {
+        color: #F22121;
+        background-color: #F7EAD0;
+        width: 57px;
+        font-size: 9px;
+        height: min-content;
+        font-weight: bold;
+        
+    }
+    .cours .like {
+        display: flex;
+        justify-content: space-between;
+    }
+    .cours .like p {
+       
+        font-size: 15px;
+    }
+ 
+    .cours .like svg {
+        margin-right: 40px;
+    }
+    .cours .interaction {
+        justify-content: space-between;
+    }
+   
+    /* END cours */
     
     
 /* Start animation */
