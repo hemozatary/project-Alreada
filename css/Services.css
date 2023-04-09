@@ -2,7 +2,7 @@
     --main-color: #232A6D;
     }
     body {
-        overflow: hidden;
+       
     }
     
     
@@ -352,12 +352,7 @@
         display: flex;
         justify-content: space-between;
     }
-    .img .right {
-        margin-right: -100px;
-    }
-    .img .left {
-        margin-left: -100px;
-    }
+   
 
     @media (max-width: 767px) {
     img {
@@ -365,7 +360,12 @@
     }
     }
     /* END img */
-    
+    /* Stert top-footer */
+    .wast {
+        justify-content: center;
+    align-items: center;
+    }
+    /* END top-footer */
     
 /* Start animation */
 @keyframes left-move {
